@@ -1,0 +1,15 @@
+gcc-c++
+glibc-devel
+glibc-devel.i686
+glibc-static
+glibc-static.i686
+gstreamer1
+gstreamer1.0-plugins-base
+gstreamer1-plugins-base
+libboost-regex-dev
+libswscale-dev
+libssl-devel
+openblas-devel
+patchelf
+pkg-config
+
